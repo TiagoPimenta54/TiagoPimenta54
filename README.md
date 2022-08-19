@@ -22,7 +22,7 @@
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
   <img height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
   </p>
-  <p align="center" ><img src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/></p>
+  
 
 <p align="center">
   <a href="https://github.com/TiagoPimenta54">
@@ -30,6 +30,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPimenta54&layout=compact&langs_count=7&theme=dark"/>
 </p>
   
-  <div>   <img src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/> </div>
+  <div> <img src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/></div>
   
 
