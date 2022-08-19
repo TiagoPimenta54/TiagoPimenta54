@@ -5,7 +5,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<div align="center">
+<p align="center">
   
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -15,7 +15,7 @@
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   
   
-  </div>
+  </p>
 
 <div align="center">
   <a href="https://github.com/TiagoPimenta54">
