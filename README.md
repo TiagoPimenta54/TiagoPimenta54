@@ -29,5 +29,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPimenta54&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img margin-left="1000" align="center" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/>  
+<div><img height="60" width="80" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/></div>
 
