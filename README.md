@@ -12,6 +12,7 @@
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
+  
   </p>
   
   <p align="center">  
@@ -19,8 +20,7 @@
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-  <img height="60" width="80 src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
-
+  <img height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
   </p>
 
 <div align="center">
