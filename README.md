@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Pimenta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<h3 align="center">Connect with me: https://www.linkedin.com/in/tiagopimenta54/ </h3>
+<h3 align="center">Connect with me <br> https://www.linkedin.com/in/tiagopimenta54/ </h3>
 
 <h3 align="center">Languages and Tools</h3>
 
