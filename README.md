@@ -1,4 +1,4 @@
-<div align="center" > <img src="https://wallpapercave.com/wp/wp3988357.jpg"/>  </div>
+<div height="100" width="200" align="center" > <img src="https://wallpapercave.com/wp/wp3988357.jpg"/>  </div>
 
 <h1 align="center">Hi 👋, I'm Tiago Pimenta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
