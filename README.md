@@ -1,4 +1,4 @@
-<div padding="100"
+
 
 
 <div align="center">
@@ -16,7 +16,6 @@
 <img height="40" width="50"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
-
 </div>
                                                                                                                          
 <div align="center" > 
@@ -26,6 +25,9 @@
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
 </div>
                                                                                                                                                     
+<div align="center"
+                   
+ <img src="https://tenor.com/search/yoda-gifs">                                              
 </div>
   
   
