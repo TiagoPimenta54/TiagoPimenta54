@@ -16,7 +16,7 @@
 
 </div>
                                                                                                                          
-<div> 
+<div align="center" > 
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
