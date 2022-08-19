@@ -13,7 +13,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagopimenta54&" alt="tiagopimenta54" /></p>
+<p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagopimenta54&" alt="tiagopimenta54" /></p>
 
 
   
