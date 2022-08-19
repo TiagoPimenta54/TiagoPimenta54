@@ -26,7 +26,7 @@
 </div>
                                                                                                                                                     
 <div align="center"                   
- <img src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif">                                              
+ <img height="40" width="50 src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif">                                              
 </div>
   
   
