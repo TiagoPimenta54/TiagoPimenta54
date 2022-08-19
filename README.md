@@ -1,4 +1,4 @@
-<img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="60" width="80" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/>
 
 <h1 align="center">Hi 👋, I'm Tiago Pimenta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
