@@ -1,4 +1,4 @@
-<h1 align="center" ✋ Olá! eu sou o Tiago Pimenta, atualmente estou me especializando nos seguintes frameworks e linguagens 👇 </h1>
+✋ Olá! eu sou o Tiago Pimenta, atualmente estou me especializando nos seguintes frameworks e linguagens 👇
 
 <div align="center">  
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPimenta54&layout=compact&langs_count=7&theme=dark"/>
 </div>
                                                                                                                                                  
-<h1 align="center"  🏅 Também possuo conhecimentos em Design 🏅 </h1>
+🏅 Também possuo conhecimentos em Design 🏅
 
 <div align="center" > 
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
