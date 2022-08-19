@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Tiago Pimenta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<h3 align="center"> 👇 Connect with me 👇 <br> https://www.linkedin.com/in/tiagopimenta54/ </h3>
+<h3 align="center">Connect with me: https://www.linkedin.com/in/tiagopimenta54/ </h3>
 
-<h3 align="center">🥇 Languages and Tools 🥇</h3>
+<h3 align="center">Languages and Tools</h3>
 
-<p align="center">
-  
+<p align="center">  
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+  </p>
   
-  
+  <p align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   </p>
 
 <div align="center">
