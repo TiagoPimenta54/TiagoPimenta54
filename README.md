@@ -14,10 +14,9 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
 
-</div>                                                                                                                   
-                                                                                                                         <div> 
-
-  <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+                                                                                                                         
+<div> 
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
