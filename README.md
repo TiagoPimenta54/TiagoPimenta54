@@ -25,9 +25,8 @@
   <a href="https://www.linkedin.com/in/tiagopimenta54/" target="_blank"><img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
 </div>
                                                                                                                                                     
-<div align="center"
-                   
- <img src="https://tenor.com/search/yoda-gifs">                                              
+<div align="center"                   
+ <img src="https://tenor.com/search/yoda-gifs](https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif">                                              
 </div>
   
   
