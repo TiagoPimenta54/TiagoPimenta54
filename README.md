@@ -1,4 +1,4 @@
-<p align="center" ><img height="60" width="80" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/></p>
+<p align="center" ><img src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif"/></p>
 <h1 align="center">Hi 👋, I'm Tiago Pimenta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
